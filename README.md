@@ -20,7 +20,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## Resources
 
-- [Linear Model Hypothesis Testing](https://onlinecourses.science.psu.edu/stat501/node/297/)
+- [Linear regression in statsmodels](https://www.statsmodels.org/stable/regression.html)
 - [R squared in scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 - [Recursive Feature Elimination](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
 
